@@ -1,17 +1,27 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Senior Member of Technical Staff, Oracle, Mexico
+  from: Jan 2017
+  to: Present
+  description: Senior Frontend Engineer・Oracle GoldenGate.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Full Stack Developer,Tecno Informatica Coproceso (TIC), Mexico
+  from: Aug 2015
+  to: Jul 2016
+  description: Full Stack Developer・LexSys
+
+- title: Junior Full Stack Developer, MaxImage Data Systems, Mexico
+  from: Aug 2012 
+  to: Jul 2015
+  description: Junior Full Stack Developer・MaxiScan
+
+- title: Junior Full Stack Developer, Inscitech, Mexico 
+  from: Aug 2009
+  to: Jul 2012
+  description: Junior Full Stack Developer・Fiducia Web
+
+- title: Student, Instituto Politécnico Nacional, Mexico
+  from: Aug 2009
+  to: Dec 2016
+  description: Bachelor's degree・Computer Engineering.
+
+
+

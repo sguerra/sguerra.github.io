@@ -1,9 +1,9 @@
 ---
-title: Do not go gentle into that good night
-tags: [Poetry]
+title: Post sample
+tags: [Sample]
 style: fill
 color: light
-description: 
+description: Do not go gentle into that good night
 ---
 
 Do not go gentle into that good night,  

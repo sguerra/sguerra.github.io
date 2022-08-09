@@ -1,0 +1,24 @@
+
+- name: Javascript
+  percentage: 100
+  color: primary
+  
+- name: HTML5/CSS3
+  percentage: 100
+  color: primary
+
+- name: Git
+  percentage: 75
+  color: primary
+
+- name: Node.js
+  percentage: 50
+  color: primary
+
+- name: React
+  percentage: 50
+  color: primary
+
+- name: Typescript
+  percentage: 45
+  color: primary

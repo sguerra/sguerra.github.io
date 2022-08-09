@@ -1,0 +1,54 @@
+---
+---
+
+@import "portfolYOU";
+
+
+/* Timeline overrides */
+
+.timeline-body .timeline-item .content {
+    font-size: 0.825rem;
+    margin: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed #a2b6cb;
+}
+
+.timeline-body {
+    padding: 0px;
+    padding-top: 1px;
+}
+
+.h1, h1 {
+    font-size: 1.75rem;
+}
+
+.h2, h2 {
+    font-size: 1rem;
+}
+
+.h6, h6 {
+    font-size: 0.85rem;
+}
+
+.timeline-body .timeline-item:after {
+    border: 3px solid #007bff;
+}
+
+.timeline-body:after {
+    width: 3px;
+    background-color: #007bff;
+}
+
+/* Progress overrides */
+
+.progress{
+    height:4px !important;
+}
+
+.text-right{
+    font-size: 0.85rem;
+}
+
+p {
+   font-size: 0.9rem;
+}

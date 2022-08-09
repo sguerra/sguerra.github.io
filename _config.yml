@@ -1,13 +1,11 @@
 ### Site Settings ###
-title               : sergijez.dev
+title               : sguerra.dev
 description         : >-
-                      Computer Engineer focused in Web Development :computer:, 
-                      JavaScript developer in more than one flavor :js:, 
-                      Collaborator and Leader :team:.
+                      <br>Senior Full Stack Engineer
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : sguerra/sguerra     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -17,6 +15,8 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/blog.html # Temporarily
+  - pages/about.md
   - pages/tags.html
   - pages/404.html
   - pages/index.md

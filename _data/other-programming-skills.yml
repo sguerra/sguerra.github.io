@@ -1,0 +1,23 @@
+- name: SQL
+  percentage: 40
+  color: primary
+
+- name: C#
+  percentage: 33
+  color: primary
+
+- name: No-SQL
+  percentage: 33
+  color: primary
+
+- name: Java
+  percentage: 33
+  color: primary
+
+- name: Python
+  percentage: 25
+  color: primary
+
+- name: Docker
+  percentage: 25
+  color: primary
